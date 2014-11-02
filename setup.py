@@ -5,5 +5,5 @@ setup(name='classyFier',
       author=['Srinivas S'],
       url='',
       license='copyrighted and proprietary',
-      install_requires=['setuptools', 'sklearn/feature_extraction/text.py','joblib','numpy','nltk/stem','nltk']
+      install_requires=['setuptools', 'sklearn','joblib','numpy','nltk']
       )
