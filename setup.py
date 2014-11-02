@@ -1,7 +1,7 @@
 from setuptools import setup
 setup(name='classyFier',
       version='1.1.0',
-      py_modules=['classyFier'],
+      py_modules=['classyfier'],
       author=['Srinivas S'],
       url='',
       license='copyrighted and proprietary',
