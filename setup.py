@@ -3,7 +3,7 @@ setup(name='classyFier',
       version='1.1.0',
       py_modules=['classyfier'],
       author=['Srinivas S'],
-      url='',
+      url='https://github.com/prashantGyeser/classifier',
       license='copyrighted and proprietary',
       install_requires=['setuptools', 'sklearn','joblib','numpy','nltk']
       )
